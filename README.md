@@ -7,7 +7,6 @@ See the READMEs of respective models for more information.
 ## Model Listing
 
 * Classification
-  * Inception_V1 [PyTorch](Inception-V1)
-  * Inception_V3 [PyTorch](Inception-V3)
   * ResNet34 [TensorFlow](ResNET-34)
+  * SSD [TensorFlow](ResNET-34)
   
